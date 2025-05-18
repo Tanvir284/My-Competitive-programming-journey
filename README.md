@@ -1,6 +1,6 @@
 # My Competitive Programming Journey
 
-This repository contains my personal archive of competitive programming solutions and notes. All code was written in C++ while practicing on [Codeforces](https://codeforces.com/profile/ruhittanvir14). It serves both as a learning resource and a demonstration of my problem solving approach.
+This repository contains my personal archive of competitive programming solutions and notes. All code was written in C++ and python while practicing on [Codeforces](https://codeforces.com/profile/ruhittanvir14). It serves both as a learning resource and a demonstration of my problem solving approach.
 
 ## Contents
 
